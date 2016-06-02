@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimationList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_good">Good</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_quit_pos">Yes</string>
+    <string name="action_quit_neg">No</string>
+	<string name="main_button">Flip Me!</string>
+</resources>
